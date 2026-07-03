@@ -14,7 +14,7 @@ https://acca-optimisation-june26-mq9aziacqlsegrmeavczfj.streamlit.app/
 
 ## Overview
 
-Linear programming is an optimisation technique used in management accounting and operations research to maximise profit or minimise cost subject to constraints such as labour, materials, and capacity.
+Linear programming is an optimisation technique used in management accounting and operations research to maximise profit or minimise cost subject to constraints such as labour, materials, and production capacity.
 
 This project transforms traditional static textbook examples into an interactive web application where users can experiment with different business scenarios and instantly observe how changes affect optimal outcomes.
 
@@ -145,14 +145,15 @@ streamlit run app.py
 
 ## Educational Purpose
 
-This project demonstrates concepts covered in:
+This project is inspired by optimisation techniques taught in the ACCA Performance Management (PM) syllabus.
 
-- ACCA Performance Management (PM)
-- Management Accounting
-- Operations Research
-- Decision Science
+The ACCA technical article introduces linear programming as a method for solving product mix and resource allocation problems where organisations aim to maximise contribution subject to constraints.
 
-It bridges the gap between theoretical optimisation models and practical, interactive decision-support tools.
+The article can be found here:
+
+https://www.accaglobal.com/uk/en/student/exam-support-resources/fundamentals-exams-study-resources/f5/technical-articles/linear-programming.html
+
+This application is an independent implementation that extends those concepts into an interactive decision-support tool built with Python and Streamlit.
 
 ---
 
@@ -223,9 +224,4 @@ Interests:
 - AI in Accounting
 ```
 
----
-
-If you want next step upgrades, I can help you:
-- add a **professional screenshot layout for GitHub**
-- convert this into a **portfolio website**
-- or rewrite your CV so it *perfectly aligns* with this repo for applications (this would make a big difference for Hays / graduate roles)
+If you want next upgrade, I can help you turn this into a **portfolio landing page** or make your README more “recruiter-optimised” (more impact, fewer words, higher interview conversion).
