@@ -72,16 +72,6 @@ Users can repeatedly adjust inputs to perform **what-if analysis** and observe h
 
 ---
 
-## Screenshot
-
-*(Add your screenshot here)*
-
-```
-images/dashboard.png
-```
-
----
-
 ## Application Architecture
 
 ```
@@ -149,7 +139,7 @@ This project is inspired by optimisation techniques taught in the ACCA Performan
 
 The ACCA technical article introduces linear programming as a method for solving product mix and resource allocation problems where organisations aim to maximise contribution subject to constraints.
 
-The article can be found here:
+Reference:
 
 https://www.accaglobal.com/uk/en/student/exam-support-resources/fundamentals-exams-study-resources/f5/technical-articles/linear-programming.html
 
@@ -189,10 +179,11 @@ This tool can model:
 Traditional linear programming examples are static and difficult to explore beyond a single solution.
 
 This dashboard transforms optimisation into an interactive environment where users can:
-- Change assumptions
-- Test scenarios
-- Compare outcomes
-- Understand sensitivity of decisions
+
+- Change assumptions  
+- Test scenarios  
+- Compare outcomes  
+- Understand sensitivity of decisions  
 
 This makes optimisation concepts more intuitive and practically useful.
 
@@ -222,6 +213,3 @@ Interests:
 - Business Optimisation
 - Decision Support Systems
 - AI in Accounting
-```
-
-If you want next upgrade, I can help you turn this into a **portfolio landing page** or make your README more “recruiter-optimised” (more impact, fewer words, higher interview conversion).
